@@ -1,0 +1,2 @@
+Autant pour moi le gitk -all je n'etais pas au courant du coup j'ai appris pendant ce cours 
+Apres avec des logiciels comme sourceTree.... ca aide pas mal
