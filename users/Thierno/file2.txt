@@ -1,1 +1,3 @@
 Pour l'instant je n'ai pas appris mais les slides sont bien realise :) 
+En effet j'avais deja utiliser le rebase il y a quelques jours pour switch de branch et recuperer mon code depuis une autre branche et integrer mes modifications a une autre branch
+Le checkout lui sert a changer de branche et est plutot pratique quand il y a plusieurs branche genre "master, prod, pre prod"
